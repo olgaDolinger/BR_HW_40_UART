@@ -1,0 +1,27 @@
+# STM32CubeIDE / Eclipse workspace
+.metadata
+.plugins
+RemoteSystemsTempFiles/
+
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Generated HAL/CMSIS (regenerate from .ioc)
+Drivers
+
+# Editors / OS
+.vscode/
+*.bak
+*~
+Thumbs.db
+.DS_Store
